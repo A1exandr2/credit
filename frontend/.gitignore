@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.env.local
+!.env.local.example
+playwright-report/
+test-results/
+.local-server.json
